@@ -105,10 +105,13 @@ The purpose of this project is to:
 
 > Add these screenshots when uploading to GitHub:
 - **Proteus simulation schematic**:
+  
   ![image](https://github.com/user-attachments/assets/31845e1e-a22b-444a-8031-c43e6d48e8db)
 - **Breadboard implementation**:
+  
   ![image](https://github.com/user-attachments/assets/dcf7f2ce-3b09-493b-9693-981831f8d90f)
 - **PCB design and final working product**:
+  
   ![image](https://github.com/user-attachments/assets/fa59a727-b196-471b-8ca8-00bca063c4a8)
   ![image](https://github.com/user-attachments/assets/23ecfd0b-b458-4e58-8aab-8e974a608612)
 
