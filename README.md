@@ -17,7 +17,7 @@ A low-power audio amplifier built using the **LM386 IC**, designed to faithfully
 - Abdallah Mohamed Mohamed Galal  
 - Abdelrahman Salah El-dein Abdelaziz  
 - Mohamed Ahmed Mohamed Hassan  
-- Farida Waheed Abd El Bary  
+- Farida Waheed Abdelbary  
 - Razan Ahmed Fawzy  
 
 ---
